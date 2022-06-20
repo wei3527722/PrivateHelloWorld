@@ -3,7 +3,7 @@ use_frameworks!
 platform :ios, '9.0'
 
 target 'PrivateHelloWorld_Example' do
-  pod 'PrivateHelloWorld', :path => '../'
+  pod 'PrivateHelloWorld', :path => 'https://github.com/wei3527722/PrivateHelloWorld.git'
 
   target 'PrivateHelloWorld_Tests' do
     inherit! :search_paths

@@ -1,0 +1,16 @@
+PODS:
+  - PrivateHelloWorld (0.1.0)
+
+DEPENDENCIES:
+  - PrivateHelloWorld (from `../`)
+
+EXTERNAL SOURCES:
+  PrivateHelloWorld:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PrivateHelloWorld: 1a867735bdf2623f22bb8208fbc771bcf75c3c63
+
+PODFILE CHECKSUM: c5f4a864d88e79d5c966f7529778e4a068f8ae35
+
+COCOAPODS: 1.11.2
